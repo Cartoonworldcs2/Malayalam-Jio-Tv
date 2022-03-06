@@ -1,3 +1,9 @@
 #EXTM3U
+
 #EXTINF:0,SONIC
+
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio800/Sonic_Malayalam.m3u8
+
+#EXTINF:0,Kochu Tv
+
+https://snehapi-march.in1.bitmana.io/snxtapi/sneh-snxt/26573.m3u8
